@@ -17,9 +17,9 @@ public class Conexion {
     
     
      private final String DRIVER = "org.postgresql.Driver";
-    private final String URL = "jdbc:postgresql://localhost:5432/sistemaventas";
+    private final String URL = "jdbc:postgresql://localhost:5432/polietilenos";
     private final String USER = "postgres";
-    private final String PASSWORD = "1234";
+    private final String PASSWORD = "**039##";
     private Connection con;
 
     public Connection conectar () {
